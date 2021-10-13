@@ -14,7 +14,7 @@ Service that returns simple moving averages, from 20, 50 and 200 days, of the Bi
 
 2. Set environment variables
 
-`mv sample.env .env`
+`mv local.env .env`
 
 3. Build and start
 
