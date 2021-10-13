@@ -1,0 +1,74 @@
+[
+    {
+        "model": "api.pair",
+        "pk": 1,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLBTC",
+            "range_days": 20,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    },
+    {
+        "model": "api.pair",
+        "pk": 2,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLBTC",
+            "range_days": 50,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    },
+    {
+        "model": "api.pair",
+        "pk": 3,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLBTC",
+            "range_days": 200,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    },
+    {
+        "model": "api.pair",
+        "pk": 4,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLETH",
+            "range_days": 20,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    },
+    {
+        "model": "api.pair",
+        "pk": 5,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLETH",
+            "range_days": 50,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    },
+    {
+        "model": "api.pair",
+        "pk": 6,
+        "fields":
+        {
+            "is_removed": false,
+            "description": "BRLETH",
+            "range_days": 200,
+            "created_date": "2021-10-07T17:13:23.918Z",
+            "modified_date": "2021-10-08T01:41:18.652Z"
+        }
+    }
+]
